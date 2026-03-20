@@ -1,4 +1,4 @@
-const CACHE = 'keihi-v1';
+const CACHE = 'keihi-v3';
 const ASSETS = ['/', '/index.html', '/manifest.json'];
 
 self.addEventListener('install', e => {
